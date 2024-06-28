@@ -1,0 +1,2 @@
+Main-Class: GUI
+Class-Path: lib/batik-all-1.17.jar lib/flatlaf-3.2.5.jar lib/xml-apis-ext-1.3.04.jar lib/xmlgraphics-commons-2.9.jar
