@@ -12,6 +12,11 @@ Video di Test: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Onli
 
 # Funzionalità 
 
+
+|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" /> | <img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />|
+|-|-|
+|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />|
+
 ## Identifica IP
 
 <img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />
