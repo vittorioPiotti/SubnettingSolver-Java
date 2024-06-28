@@ -11,7 +11,7 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 
 ## Preview
 
-Video di Test prossimamente...
+Video di Test [Link](https://drive.google.com/file/d/17XctjTlS7LYgrnKikc7BHBkw4H3vvMtA/view?usp=sharing)
 
 
 ---
