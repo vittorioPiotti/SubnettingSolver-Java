@@ -33,6 +33,10 @@ OpenJDK Runtime Environment Temurin-21.0.3+9 (build 21.0.3+9-LTS)
 OpenJDK 64-Bit Server VM Temurin-21.0.3+9 (build 21.0.3+9-LTS, mixed mode)
 
 ```
+## Distribuzione
+
+Avviare il file `.jar`
+
 
 
 ## Licenze
