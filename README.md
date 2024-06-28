@@ -26,7 +26,13 @@ Video di Test: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Onli
 |-|-|
 |<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/flsm.png" />|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/vlsm.png" />|
 
+## Requisiti
 
+`
+openjdk 21.0.3 2024-04-16 LTS
+OpenJDK Runtime Environment Temurin-21.0.3+9 (build 21.0.3+9-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.3+9 (build 21.0.3+9-LTS, mixed mode)
+`
 
 ## Licenze
 
@@ -38,3 +44,6 @@ Video di Test: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Onli
 | xml-apis-ext        | v1.3.04          | 2024 The Apache Software Foundation            | [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)                            |
 | xmlgraphics-commons | v2.9             | 2024 The Apache Software Foundation            | [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)                            |
 | Bootstrap           | v5.3.0-alpha3    | 2011-2023 The Bootstrap Authors                | [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE)                                 |
+
+
+
