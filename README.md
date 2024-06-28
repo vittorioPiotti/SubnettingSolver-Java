@@ -2,7 +2,7 @@
 
 Soluzione software per la risoluzione degli esercizi sulle reti.
 
-## Esercizi Supportati
+## Funzionalità
 
  - Identifica IP
  - Verifica Stessa Rete
@@ -24,7 +24,7 @@ Video di Test [(link)](https://drive.google.com/file/d/17XctjTlS7LYgrnKikc7BHBkw
 <img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/vlsm.png" />
 
 
-## Funzionalità 
+## Screenshots
 
 
 |<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" /> | <img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/net.png" />|
