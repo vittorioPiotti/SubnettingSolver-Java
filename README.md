@@ -35,7 +35,9 @@ OpenJDK 64-Bit Server VM Temurin-21.0.3+9 (build 21.0.3+9-LTS, mixed mode)
 ```
 ## Distribuzione
 
-Avviare il file `.jar`
+ - Mac o Windows
+ - openjdk `v.21.0.3`
+ - Avviare il file `.jar`
 
 
 
