@@ -1,5 +1,13 @@
 # Subnet Solver Java
-Soluzione software per la risoluzione degli esercizi sulle reti. Identifica il tipo di ip, verifica se due ip sono della stessa rete, effettua la subnet mask fissa e variabile
+
+Soluzione software per la risoluzione degli esercizi sulle reti.
+
+## Esercizi Supportati
+
+ - Identifica IP
+ - Verifica Stessa Rete
+ - Subnet a Maschera Fissa - FLSM
+ - Subnet a Maschera Variabile - VLSM
 
 ## Preview
 
