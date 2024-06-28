@@ -26,13 +26,7 @@ Video di Test: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Onli
 |-|-|
 |<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/flsm.png" />|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/vlsm.png" />|
 
-## Requisiti
-```bash
-openjdk 21.0.3 2024-04-16 LTS
-OpenJDK Runtime Environment Temurin-21.0.3+9 (build 21.0.3+9-LTS)
-OpenJDK 64-Bit Server VM Temurin-21.0.3+9 (build 21.0.3+9-LTS, mixed mode)
 
-```
 ## Distribuzione
 
  - Mac o Windows
