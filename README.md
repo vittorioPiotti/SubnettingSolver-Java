@@ -9,6 +9,11 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
  - Subnet a Maschera Fissa - FLSM
  - Subnet a Maschera Variabile - VLSM
 
+## Ispirazione
+
+La grafica del sito web è stata ispirata e **sviluppata indipendentemente** riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
+
+
 ## Preview
 
 Video di Test [(link)](https://drive.google.com/file/d/17XctjTlS7LYgrnKikc7BHBkw4H3vvMtA/view?usp=sharing)
