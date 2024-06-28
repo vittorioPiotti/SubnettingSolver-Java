@@ -1,6 +1,12 @@
 # Subnet Solver Java
 Risolutore di esercizi sulle reti. Identifica il tipo di ip, verifica se due ip sono della stessa rete, effettua la subnet mask fissa e variabile
 
+## Preview
+
+Video di Test: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Online/index.php)
+
+
+---
 
 <img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/vlsm.png" />
 
