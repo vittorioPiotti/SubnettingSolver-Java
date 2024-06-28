@@ -11,7 +11,7 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 
 ## Preview
 
-Video di Test: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Online/index.php)
+Video di Test prossimamente
 
 
 ---
