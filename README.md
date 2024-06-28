@@ -8,30 +8,16 @@ Video di Test: [Link al Sito](https://vittoriopiotti.altervista.org/FilaTre/Onli
 
 ---
 
+<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/vlsm.png" />
 
 
 # Funzionalità 
 
 
-|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" /> | <img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />|
+|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" /> | <img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/net.png" />|
 |-|-|
-|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />|
+|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/flsm.png" />|<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/vlsm.png" />|
 
-## Identifica IP
-
-<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/ip.png" />
-
-## Verifica Stessa Rete
-
-<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/net.png" />
-
-## Maschera Fissa - FLSM
-
-<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/flsm.png" />
-
-## Maschera Variabile - VLSM
-
-<img src="https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/screenshots/vlsm.png" />
 
 
 ## Licenze
