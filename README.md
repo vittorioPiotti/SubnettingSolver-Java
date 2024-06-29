@@ -2,9 +2,10 @@
 
 Soluzione software per la risoluzione degli esercizi sulle reti.
 
-
+> [!TIP]
+> Corretto funzionamento dell'UI garantito
 > [!WARNING]
-> Corretto funzionamento non garantito
+> Corretto funzionamento degli algoritmi di calcolo della FLSM e della VLSM non garantito
 
 
 ## Funzionalità
