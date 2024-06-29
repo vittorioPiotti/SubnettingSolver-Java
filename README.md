@@ -1,4 +1,4 @@
-# Subnet Solver Java
+# Subnetting Java
 
 Soluzione software per la risoluzione degli esercizi sulle reti.
 
