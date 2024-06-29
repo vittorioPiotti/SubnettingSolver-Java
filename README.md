@@ -4,13 +4,11 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 
 
 > [!TIP]
-> Corretto funzionamento dell'UI garantito
+> Corretto funzionamento garantito
 
 > [!TIP]
 > Compatibilità con Windows e MacOS
 
-> [!WARNING]
-> Corretto funzionamento degli algoritmi di calcolo della FLSM e della VLSM non garantito
 
 
 ## Funzionalità
