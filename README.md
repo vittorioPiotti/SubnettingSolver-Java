@@ -85,10 +85,10 @@ $ tree
 │   ├── AnimatedRoundedLabel.java
 │   ├── AnimatedSVG.java
 │   ├── CalcFLSM.java
-│   ├── CalcIP.java * calcolo IP
-│   ├── CalcManager.java * altri calcoli sulle reti
-│   ├── CalcNetIDs.java * calcolo NetID
-│   ├── CalcVLSM.java * calcolo VLSM
+│   ├── CalcIP.java 
+│   ├── CalcManager.java 
+│   ├── CalcNetIDs.java 
+│   ├── CalcVLSM.java 
 │   ├── GUI.java * main del progetto
 │   ├── LayoutTable.java
 │   ├── ObjIP.java
