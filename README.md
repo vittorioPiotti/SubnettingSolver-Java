@@ -22,7 +22,7 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 
 ## Ispirazione
 
-La grafica del sito web è stata ispirata e **sviluppata indipendentemente** riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
+La grafica del software è stata ispirata e **sviluppata indipendentemente** riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
 
 
 ## Preview
