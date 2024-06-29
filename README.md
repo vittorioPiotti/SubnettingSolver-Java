@@ -53,3 +53,40 @@ Video di Test [(link)](https://drive.google.com/file/d/17XctjTlS7LYgrnKikc7BHBkw
 
 
 
+## Albero di Path
+
+
+```bash
+$ tree
+.
+├── assets -> contiene sv usate
+├── bin -> contiene i file binari
+├── lib
+│   ├── batik-all-1.17.jar 
+│   ├── flatlaf-3.2.5.jar 
+│   ├── xml-apis-ext-1.3.04.jar
+│   └── xmlgraphics-commons-2.9.jar
+└── src
+    ├── AnimatedButton.java
+    ├── AnimatedLabel.java
+    ├── AnimatedModal.java
+    ├── AnimatedOpacityPanel.java
+    ├── AnimatedRoundedLabel.java
+    ├── AnimatedSVG.java
+    ├── CalcFLSM.java
+    ├── CalcIP.java
+    ├── CalcManager.java
+    ├── CalcNetIDs.java
+    ├── CalcVLSM.java
+    ├── GUI.java -> main del progetto
+    ├── LayoutTable.java
+    ├── ObjIP.java
+    ├── ObjNetIDs.java
+    ├── ObjSM.java
+    ├── RoundedButton.java
+    ├── RoundedLabel.java
+    ├── RoundedPanel.java
+    ├── RoundedPanelApp.java
+    └── RoundedTextField.java
+```
+
