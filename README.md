@@ -3,13 +3,17 @@
 Soluzione software per la risoluzione degli esercizi sulle reti.
 
 
-> [!TIP]
-> Corretto funzionamento garantito
 
 > [!TIP]
 > Compatibilità con Windows e MacOS
 
 
+> > [!TIP]
+> Corretto funzionamento garantito
+
+
+> [!WARNING]
+> Correttezza VLSM non garantita
 
 ## Funzionalità
 
