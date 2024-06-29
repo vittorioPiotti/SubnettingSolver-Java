@@ -59,7 +59,7 @@ Video di Test [(link)](https://drive.google.com/file/d/17XctjTlS7LYgrnKikc7BHBkw
 ```bash
 $ tree
 .
-├── assets > contiene sv usate
+├── assets > contiene file.svg
 ├── bin > contiene i file binari
 ├── lib
 │   ├── batik-all-1.17.jar 
@@ -67,10 +67,10 @@ $ tree
 │   ├── xml-apis-ext-1.3.04.jar
 │   └── xmlgraphics-commons-2.9.jar
 └── src
-    ├── AnimatedButton.java
-    ├── AnimatedLabel.java
-    ├── AnimatedModal.java
-    ├── AnimatedOpacityPanel.java
+    ├── AnimatedButton.java 
+    ├── AnimatedLabel.java 
+    ├── AnimatedModal.java 
+    ├── AnimatedOpacityPanel.java 
     ├── AnimatedRoundedLabel.java
     ├── AnimatedSVG.java
     ├── CalcFLSM.java
