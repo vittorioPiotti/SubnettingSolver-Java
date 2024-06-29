@@ -59,8 +59,8 @@ Video di Test [(link)](https://drive.google.com/file/d/17XctjTlS7LYgrnKikc7BHBkw
 ```bash
 $ tree
 .
-├── assets -> contiene sv usate
-├── bin -> contiene i file binari
+├── assets > contiene sv usate
+├── bin > contiene i file binari
 ├── lib
 │   ├── batik-all-1.17.jar 
 │   ├── flatlaf-3.2.5.jar 
@@ -78,7 +78,7 @@ $ tree
     ├── CalcManager.java
     ├── CalcNetIDs.java
     ├── CalcVLSM.java
-    ├── GUI.java -> main del progetto
+    ├── GUI.java > main del progetto
     ├── LayoutTable.java
     ├── ObjIP.java
     ├── ObjNetIDs.java
