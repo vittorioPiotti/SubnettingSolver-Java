@@ -2,6 +2,11 @@
 
 Soluzione software per la risoluzione degli esercizi sulle reti.
 
+
+> [!WARNING]
+> Corretto funzionamento non garantito
+
+
 ## Funzionalità
 
  - Identifica IP
