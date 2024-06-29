@@ -73,27 +73,29 @@ $ tree
 │   ├── flatlaf-3.2.5.jar 
 │   ├── xml-apis-ext-1.3.04.jar
 │   └── xmlgraphics-commons-2.9.jar
-└── src
-    ├── AnimatedButton.java 
-    ├── AnimatedLabel.java 
-    ├── AnimatedModal.java 
-    ├── AnimatedOpacityPanel.java 
-    ├── AnimatedRoundedLabel.java
-    ├── AnimatedSVG.java
-    ├── CalcFLSM.java
-    ├── CalcIP.java
-    ├── CalcManager.java
-    ├── CalcNetIDs.java
-    ├── CalcVLSM.java
-    ├── GUI.java * main del progetto
-    ├── LayoutTable.java
-    ├── ObjIP.java
-    ├── ObjNetIDs.java
-    ├── ObjSM.java
-    ├── RoundedButton.java
-    ├── RoundedLabel.java
-    ├── RoundedPanel.java
-    ├── RoundedPanelApp.java
-    └── RoundedTextField.java
+├── src
+│   ├── AnimatedButton.java 
+│   ├── AnimatedLabel.java 
+│   ├── AnimatedModal.java 
+│   ├── AnimatedOpacityPanel.java 
+│   ├── AnimatedRoundedLabel.java
+│   ├── AnimatedSVG.java
+│   ├── CalcFLSM.java
+│   ├── CalcIP.java
+│   ├── CalcManager.java
+│   ├── CalcNetIDs.java
+│   ├── CalcVLSM.java
+│   ├── GUI.java * main del progetto
+│   ├── LayoutTable.java
+│   ├── ObjIP.java
+│   ├── ObjNetIDs.java
+│   ├── ObjSM.java
+│   ├── RoundedButton.java
+│   ├── RoundedLabel.java
+│   ├── RoundedPanel.java
+│   ├── RoundedPanelApp.java
+│   └── RoundedTextField.java
+└── SubnetSolver.jar * eseguibile
+
 ```
 
