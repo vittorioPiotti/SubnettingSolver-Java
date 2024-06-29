@@ -8,7 +8,7 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 > Compatibilità con Windows e MacOS
 
 
-> > [!TIP]
+> [!TIP]
 > Corretto funzionamento garantito
 
 
