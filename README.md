@@ -91,7 +91,9 @@ $ tree
 
 ```
 
+## Crediti
 
+Il rework del codice è stato effettuato in collaborazione con [Reda Karimi](https://github.com/RedaKarimi)
 
 ## Licenze
 
