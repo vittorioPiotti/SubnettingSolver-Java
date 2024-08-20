@@ -110,7 +110,7 @@ $ tree
 ## Crediti
 
 [Reda Karimi](https://github.com/RedaKarimi):
- - Correzzione caricamento SVG su Windows
+ - Correzzione errore caricamento SVG su Windows
  - Caricamento delle dipendenze da pom.xml anzichè da import diretto
 
 ## Licenze
