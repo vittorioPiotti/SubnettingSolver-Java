@@ -109,8 +109,13 @@ $ tree
 
 ## Crediti
 
-Il refactoring del codice è stato effettuato in collaborazione con [Reda Karimi](https://github.com/RedaKarimi) 
 
+[Reda Karimi](https://github.com/RedaKarimi):
+ - Correzzione errore caricamento SVG su Windows
+ - Caricamento delle dipendenze da pom.xml anzichè da import diretto
+
+
+   
 ## Licenze
 
 | Componente          | Versione         | Copyright                                      | Licenza                                                                                            |
