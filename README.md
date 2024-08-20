@@ -15,7 +15,20 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 > [!WARNING]
 > Correttezza VLSM non garantita
 
-## Funzionalità
+
+## Indice
+
+ - [Funzioni](#funzioni)
+ - [Ispirazione](#ispirazione)
+ - [Javadoc](#javadoc)
+ - [Preview](#preview)
+ - [Screenshots](#screenshots)
+ - [Distribuzione](#distribuzione)
+ - [Albero di Path](#albero-di-path)
+ - [Crediti](#crediti)
+ - [Licenze](#licenze)
+
+## Funzioni
 
  - Identifica IP
  - Verifica Stessa Rete
