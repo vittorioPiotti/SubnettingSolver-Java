@@ -126,4 +126,4 @@ $ tree
 
 
 > [!NOTE]
-> Di **Bootstrap*** sono state utilizzate solo le icone
+> Di **Bootstrap** sono state utilizzate solo le icone
