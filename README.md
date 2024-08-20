@@ -26,6 +26,9 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 
 La grafica del software è stata ispirata e **sviluppata indipendentemente** riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
 
+## Javadoc
+
+Link al javadoc [(link)](https://vittoriopiotti.altervista.org/SubnettingJava/org/subnetting/package-summary.html)
 
 ## Preview
 
