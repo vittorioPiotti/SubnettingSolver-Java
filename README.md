@@ -2,6 +2,8 @@
 
 Soluzione software per la risoluzione degli esercizi sulle reti.
 
+> [!TIP]
+> Software responsive con schermata Small e Large
 
 
 > [!TIP]
