@@ -2,16 +2,9 @@
 
 Soluzione software per la risoluzione degli esercizi sulle reti.
 
-> [!TIP]
+> [!NOTE]
 > Software responsive con schermata Small e Large
 
-
-> [!TIP]
-> Compatibilità con Windows e MacOS
-
-
-> [!TIP]
-> Corretto funzionamento garantito
 
 
 > [!WARNING]
@@ -122,15 +115,73 @@ $ tree
 
 ## Licenze
 
-| Componente          | Versione         | Copyright                                      | Licenza                                                                                            |
-|---------------------|------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [Subnet Solver](https://github.com/vittorioPiotti/SubnettingSolver-Java)       | [v1.0.0](https://github.com/vittorioPiotti/SubnettingSolver-Java/releases/tag/1.0.0)           | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)                          | [GPL-3.0 License](https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/LICENSE.md)       |
-| batik-all           | v1.17            | 2024 The Apache Software Foundation            | [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)                            |
-| FlatLaf             | v3.2.5           | 2024 JFormDesigner GmbH                        | [Apache License 2.0](https://github.com/JFormDesigner/FlatLaf/blob/main/LICENSE)                   |
-| xml-apis-ext        | v1.3.04          | 2024 The Apache Software Foundation            | [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)                            |
-| xmlgraphics-commons | v2.9             | 2024 The Apache Software Foundation            | [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)                            |
-| Bootstrap           | v5.3.0-alpha3    | 2011-2023 The Bootstrap Authors                | [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE)                                 |
-
 
 > [!NOTE]
 > Di **Bootstrap** sono state utilizzate solo le icone
+
+
+
+---
+
+### Subnet Solver
+
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/SubnettingSolver-Java/releases/tag/1.0.0)
+
+**License** [GPL-3.0 License](https://github.com/vittorioPiotti/Subnet-Solver-Java/blob/main/LICENSE.md)
+
+---
+
+### batik-all
+
+**Copyright** 2024 The Apache Software Foundation
+
+**Version** [v1.17](https://mvnrepository.com/artifact/org.apache.xmlgraphics/batik-all/1.17)
+
+**License** [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)
+
+---
+
+### FlatLaf
+
+**Copyright** 2024 JFormDesigner GmbH
+
+**Version** [v3.2.5](https://mvnrepository.com/artifact/com.formdev/flatlaf/3.2.5)
+
+**License** [Apache License 2.0](https://github.com/JFormDesigner/FlatLaf/blob/main/LICENSE)
+
+---
+
+### xml-apis-ext
+
+**Copyright** 2024 The Apache Software Foundation
+
+**Version** [v1.3.04](https://mvnrepository.com/artifact/xml-apis/xml-apis-ext/1.3.04)
+
+**License** [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)
+
+---
+
+### xmlgraphics-commons
+
+**Copyright** 2024 The Apache Software Foundation
+
+**Version** [v2.9](https://mvnrepository.com/artifact/org.apache.xmlgraphics/xmlgraphics-commons/2.9)
+
+**License** [Apache License 2.0](https://xmlgraphics.apache.org/batik/license.html)
+
+---
+
+### Bootstrap Icons
+
+**Copyright** 2011-2018 The Bootstrap Authors 
+
+**Version** [v1.11.0](https://blog.getbootstrap.com/2023/09/12/bootstrap-icons-1-11-0/)
+
+**License** [MIT](https://github.com/twbs/icons/blob/main/LICENSE)
+
+
+
+
+
