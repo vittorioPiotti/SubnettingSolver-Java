@@ -10,11 +10,7 @@ Soluzione software per la risoluzione degli esercizi sulle reti.
 > [!WARNING]
 > Correttezza VLSM non garantita
 
-#### Support Me
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
-
+---
 
 ## Indice
 
